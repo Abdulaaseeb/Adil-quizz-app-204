@@ -1,0 +1,12 @@
+.list{
+    list-style-type: circle;
+}
+textarea::placeholder,input::placeholder{
+    color: antiquewhite;
+}
+textarea,input{
+    color: antiquewhite;
+}
+ol button{
+    color: antiquewhite;
+}
